@@ -1,0 +1,2 @@
+,CollectionDate,ZIPCODE,AnalyticalResultValue
+109,2016,48059,185.83333333333334

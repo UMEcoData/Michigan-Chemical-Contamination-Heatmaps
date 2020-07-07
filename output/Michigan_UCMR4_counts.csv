@@ -1,0 +1,9 @@
+Contaminant,PWSID,PWSName,FacilityID,FacilityWaterType,SamplePointID,CollectionDate,SampleID,MRL,AnalyticalResultsSign,AnalyticalResultValue,Region,ZIPCODE
+1-butanol,5,5,5,5,5,5,5,5,5,5,5,5
+2-methoxyethanol,5,5,5,5,5,5,5,5,5,5,5,5
+HAA5,1571,1571,1571,1571,1571,1571,1571,0,1571,1571,1571,1571
+HAA6Br,1569,1569,1569,1569,1569,1569,1569,0,1569,1569,1569,1569
+HAA9,1569,1569,1569,1569,1569,1569,1569,0,1569,1569,1569,1569
+germanium,4,4,4,4,4,4,4,4,4,4,4,4
+manganese,423,423,423,423,423,423,423,423,423,423,423,423
+oxyfluorfen,1,1,1,1,1,1,1,1,1,1,1,1

@@ -1,0 +1,20 @@
+
+The order to run the code is 
+
+1) UCMR_structuring
+
+2) Obtain_Contam_Data
+
+3) Create_Contam_Heatmap
+
+**All files will need to be revised so you may choose your correct files of focus
+**Maintain a directory structure similar to this repository for the code to work
+
+
+
+Results are found in the output folder
+
+The MAPS are found in /output/maps 
+
+
+Have Fun!

@@ -1,0 +1,4 @@
+,Unnamed: 0,PWSID,PWSName,Size,FacilityID,FacilityName,FacilityWaterType,SamplePointID,SamplePointName,SamplePointType,AssociatedFacilityID,AssociatedSamplePointID,CollectionDate,SampleID,Contaminant,MRL,MethodID,AnalyticalResultsSign,AnalyticalResultValue,SampleEventCode,MonitoringRequirement,Region,State,ZIPCODE
+1333,3310,MI0005370,Plainfield Township,L,5448,Treatment Plant,GU,TP100,Treatment Plant Tap,EP,5004.0,MR1,9/16/13,2897547,PFOS,0.04,EPA 537,=,0.06,SE2,AM,5,MI,49525
+1368,3391,MI0005370,Plainfield Township,L,5448,Treatment Plant,GU,TP100,Treatment Plant Tap,EP,5004.0,MR1,6/28/13,2850296,PFOS,0.04,EPA 537,=,0.05,SE1,AM,5,MI,49525
+4981,830076,MI0000220,Ann Arbor,L,5013,Treatment Plant,MX,TP001,Treatment Plant Tap,EP,5008.0,MR1,3/5/14,201403060240AM,PFOS,0.04,EPA 537,=,0.043,SE2,AM,5,MI,48103
