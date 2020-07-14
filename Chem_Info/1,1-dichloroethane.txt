@@ -1,0 +1,5 @@
+1,1-dichloroethane is a colorless liquid with an odor similar to ether. The compound is slightly denser than water and vapor is slightly denser than air. It can be broken down in the body by a family of enzymes called cytochrome p450. 1,1-dichloroethane is used to manufacture adhesives, plastic wraps, and synthetic fibers. The general public is exposed via contaminated water and air samples. It was previously used as an anesthetic, however it is known to cause heart complications such as irregular heartbeat, dizziness, and nausea. In certain mammal studies, it has been found to be a possible carcinogen, but no evidence for such effects has been found among humans2. 
+
+1. “1,1-Dichloroethane.” National Center for Biotechnology Information. PubChem Compound Database, U.S. National Library of Medicine, 8 Feb. 2020, pubchem.ncbi.nlm.nih.gov/compound/1,1-dichloroethane#section=Overview.
+
+2. “1,1-Dichloroethane CASRN 75-34-3 | IRIS | US EPA, ORD.” EPA, Environmental Protection Agency, 1 Oct. 1990, cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=409

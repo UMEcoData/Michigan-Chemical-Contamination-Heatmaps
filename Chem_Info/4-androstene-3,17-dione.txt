@@ -1,0 +1,9 @@
+A human metabolite and steroid hormone. It is naturally synthesized in adrenal glands and gonads. It is also a precursor for male and female sex hormones1. In high concentrations it causes overproduction of androgens. From external sources in sufficient quantities it can lead to permanent development of secondary sexual characteristics, which is particularly dangerous when children are exposed. The most common method of exposure is through contact in certain occupations where the compound is produced2.
+
+
+
+
+
+1. National Center for Biotechnology Information. PubChem Database. Androstenedione, CID=6128, https://pubchem.ncbi.nlm.nih.gov/compound/Androstenedione (accessed on Feb. 4, 2020)
+
+1. National Center for Biotechnology Information. PubChem Database. Androstenedione, Source=HSDB, https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7335 (accessed on Feb. 4, 2020)

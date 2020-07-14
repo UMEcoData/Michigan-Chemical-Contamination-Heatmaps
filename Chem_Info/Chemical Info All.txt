@@ -1,0 +1,98 @@
+﻿HALON 1011
+Halon 1011, also known as bromochloromethane, is a halomethane compound that 
+presents as a liquid at room temperature under normal atmospheric pressure1. The compound is dangerous for ozone layer as well as irritant for eyes, skin, and respiratory tract. Halon 1011 is currently used in industry as a fire-extinguishing fluid2. Firefighters and those in the vicinity of its use are most likely to experience its adverse physiological effects. Moreover, there is a risk for water contamination. It moves quickly through the ground and the air, and is eventually broken down through the air. 
+1. Halon, www.chembk.com/en/chem/halon 1011.
+2. “Bromochloromethane.” National Center for Biotechnology Information. PubChem Compound Database, U.S. National Library of Medicine, pubchem.ncbi.nlm.nih.gov/compound/Bromochloromethane#section=Overview.
+
+
+CHLORATE 
+        Chlorate is the conjugate base that forms when chloric acid dissociates in solution.1 It is a common by-product from using chlorine dioxide as a disinfectant. Chlorate is also used in producing chlorine dioxide, dyes, explosives, and matches. Chlorate interacts with the body by being absorbed through the GI tract and later broken down into chlorine and other components that are eventually excreted in the urine or feces. Excessive exposure has been found to cause decreased organ weight in dogs, but human impact has not been reported. 
+
+
+1. “Chlorite and Chlorate in Drinking-Water .” Background Document for Development of WHO Guidelines for Drinking-Water Quality, World Health Organization, 2005, www.who.int/water_sanitation_health/dwq/chemicals/chlorateandchlorite0505.pdf.
+
+
+HCFC-22
+        HCFC-22, also known as chlorodifluoromethane,  is one of the most commonly used refrigerants used in refrigerators and air conditioners worldwide.1 This gas has a large detrimental effect because of its negative effect on the ozone layer. HCFC-22 causes stratospheric ozone depletion. It can also act as a greenhouse gas within the atmosphere. 
+
+
+1. Xiang, B., Patra, P. K., Montzka, S. A., Miller, S. M., Moore, F. L., Atlas, E. L., … James W. Elkins. (2014, December 9). Global emissions of refrigerants HCFC-22 and HFC-134a: Unforeseen seasonal contributions. Retrieved from https://www.pnas.org/content/111/49/17379.
+
+
+1,4 - DIOXANE
+        1,4 - dioxane presents as a clear liquid with a sweet odor as well as a moderate to high miscibility in water.1 It was previously used as a stabilizer for chlorination reactions during manufacturing procedures, making it present in dump sites. Normally, 1,4 - dioxane is not found in groundwater because of its short half-life (1-3 days) while in the soil. The chemical is also harmful to human health based on the amount of exposure. Short term exposure can cause nausea, drowsiness, and headaches while long term exposure is potentially carcinogenic. 
+
+
+1. Technical Fact Sheet – 1,4-Dioxane November 2017 . United States Environmental Protection Agency, Nov. 2017, www.epa.gov/sites/production/files/2014-03/documents/ffrro_factsheet_contaminant_14-dioxane_january2014_final.pdf.
+
+
+1,1-DICHLOROETHANE 
+1,1-dichloroethane is a colorless liquid with an odor similar to ether. The compound is slightly denser than water and vapor is slightly denser than air. It can be broken down in the body by a family of enzymes called cytochrome p450. 1,1-dichloroethane is used to manufacture adhesives, plastic wraps, and synthetic fibers. The general public is exposed via contaminated water and air samples. It was previously used as an anesthetic, however it is known to cause heart complications such as irregular heartbeat, dizziness, and nausea. In certain mammal studies, it has been found to be a possible carcinogen, but no evidence for such effects has been found among humans2. 
+1. “1,1-Dichloroethane.” National Center for Biotechnology Information. PubChem Compound Database, U.S. National Library of Medicine, 8 Feb. 2020, pubchem.ncbi.nlm.nih.gov/compound/1,1-dichloroethane#section=Overview.
+2. “1,1-Dichloroethane CASRN 75-34-3 | IRIS | US EPA, ORD.” EPA, Environmental Protection Agency, 1 Oct. 1990, cfpub.epa.gov/ncea/iris2/chemicalLanding.cfm?substance_nmbr=409
+
+
+
+
+CHROMIUM-6
+Chromium-6 is a group metals in the hexavalent form of the heavy metal chromium1. It can occur naturally, however with regard to human exposure, chromium-6 released into water from industrial processes is often caused by leakage, poor storage, or inadequate industrial waste disposal practices3. Continued exposure often results in allergic dermatitis2. Chromium is used in heavy industry, for instance with pigments, corrosion resistance, and chrome plating. Continued exposure to chromium-6 is known to cause certain cancers, most commonly of the sinuses, lungs, and nasal passages, in addition to illnesses of the respiratory system, kidneys, liver, skin, and eyes4. 
+1. “Hexavalent Chromium.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 21 June 2019, www.cdc.gov/niosh/topics/hexchrom/default.html.
+2. “Chromium in Drinking Water.” EPA, Environmental Protection Agency, 27 Jan. 2020, www.epa.gov/sdwa/chromium-drinking-water#is-health-concern.
+3. “UNITED STATES DEPARTMENT OF LABOR.” Safety and Health Topics | Hexavalent Chromium | Occupational Safety and Health Administration, www.osha.gov/SLTC/hexavalentchromium/.
+4. “UNITED STATES DEPARTMENT OF LABOR.” Safety and Health Topics | Hexavalent Chromium - Health Effects | Occupational Safety and Health Administration, www.osha.gov/SLTC/hexavalentchromium/healtheffects.html.
+
+
+ANDROSTENEDIONE (4-androstene-3, 17-dione)
+A human metabolite and steroid hormone. It is naturally synthesized in adrenal glands and gonads. It is also a precursor for male and female sex hormones1. In high concentrations it causes overproduction of androgens. From external sources in sufficient quantities it can lead to permanent development of secondary sexual characteristics, which is particularly dangerous when children are exposed. The most common method of exposure is through contact in certain occupations where the compound is produced2.
+
+
+1. National Center for Biotechnology Information. PubChem Database. Androstenedione, CID=6128, https://pubchem.ncbi.nlm.nih.gov/compound/Androstenedione (accessed on Feb. 4, 2020)
+1. National Center for Biotechnology Information. PubChem Database. Androstenedione, Source=HSDB, https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7335 (accessed on Feb. 4, 2020)
+
+
+
+
+COBALT
+Primarily used in industrial processes to increase hardness and prevent corrosion for grinding and cutting1. Cobalt can enter the body through inhalation of vapors, dirt, through drinking water or ingesting it through natural sources where trace amounts of cobalt are already present. While the element is a nutrient necessary for proper human health in trace amounts, excess contact with cobalt, especially through inhalation of cobalt dust, can lead to respiratory irritation and allergic reactions. Exposure to excess cobalt most often occurs through ingesting contaminated food and drinking water. Once absorbed, it is mainly distributed to the liver, kidneys, and bones. Radioactive forms of cobalt are also particularly dangerous to human health, and may lead to the development of certain cancers with continual exposure. However, radioactive cobalt is only found in very few applications, for example in radiotherapy units or in nuclear power plants.
+1. “Toxic Substances Portal - Cobalt.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, Apr. 2004, www.atsdr.cdc.gov/PHS/PHS.asp?id=371&tid=64.
+
+
+
+
+PFOS
+        Perfluorooctane Sulfonate (PFOS) are synthetic chemicals that humans have introduced into the environment.1 In the past, PFOS were used heavily for industrial manufacturing purposes as lubricants, water-resistant coatings, or in food packaging. These chemicals have been found to hinder immune system function by lowering antibody effectiveness. 
+
+
+1. Immunotoxicity Associated with Exposure to Perfluorooctanoic Acid (PFOA) or Perfluorooctane Sulfonate (PFOS). (n.d.). Retrieved from https://ntp.niehs.nih.gov/whatwestudy/assessments/noncancer/completed/pfoa/index.html?utm_source=direct&utm_medium=prod&utm_campaign=ntpgolinks&utm_term=749926.
+
+
+
+
+VANADIUM: 
+        Vanadium is a common transition metal found in freshwater.1 It is abundant in the body, but its biological role is not known at this time. It is thought to act in a similar way to phosphate. Vanadium in homeostatic concentrations is non-toxic, however those in industries where work with vanadium oxides is present are exposed to toxic concentrations. A large amount of ingested vanadium is processed by the body, but any inhalation of vanadium oxides can cause irritation in the eyes, nose, skin, or upper respiratory tract. 
+
+
+1. Rehder, Dieter. “Vanadium. Its Role for Humans.” Metal Ions in Life Sciences, U.S. National Library of Medicine, 2013, www.ncbi.nlm.nih.gov/pubmed/24470091.
+
+
+MOLYBDENUM:
+        Molybdenum is a transition metal that is commonly found as a trace element.1 It has an essential enzymatic function as a component in the cofactor molybdopterin. Humans consume molybdenum through fruits and vegetables, particularly legumes and nuts. While important, molybdenum is quickly excreted from the body through urination, due to its toxicity at high concentration. People working in the mining and metalworking industries have a large chance of high molybdenum exposure. 
+
+
+1. “Office of Dietary Supplements - Molybdenum.” NIH Office of Dietary Supplements, U.S. Department of Health and Human Services, 3 June 202AD, ods.od.nih.gov/factsheets/Molybdenum-HealthProfessional/.
+
+
+MANGANESE:
+        Manganese is a transition metal that is primarily found as a compound in nature.1 It has a few key roles in enzymatic pathways within humans, mainly for its ability to stabilize charges. While high manganese intake through food and drink is unlikely to cause adverse health effects, repeated respiratory exposure can damage the central nervous system. Chronic exposure can result in tremors and muscle spasms. People working in the welding and mining industries are the most likely to be exposed to manganese dust. 
+
+
+1. “Office of Dietary Supplements - Manganese.” NIH Office of Dietary Supplements, U.S. Department of Health and Human Services, 3 June 202AD, ods.od.nih.gov/factsheets/Manganese-HealthProfessional/.
+
+
+STRONTIUM: 
+        Strontium is an element that falls under the alkaline earth metal family.1 This family is known to contain elements that, in their purest form, react violently when exposed to water. However, strontium is not usually found in its pure metal form in nature. The metal is primarily used in fireworks or flares to make a red color while also being incorporated into plastics and paints. The health impact of strontium on humans is fairly benign. It does not have a role in any metabolic or biological pathways in humans.2 Humans are exposed to trace amounts of strontium in dust particles. For children who have low calcium and protein in their diets, they are susceptible to strontium’s effect of bone growth.3 To reduce the risk of harmful exposure, children should have a diet high in vitamin D, calcium, and protein to limit strontium absorption.3
+
+
+1. “Water Treatment Solutions.” Lenntech Water Treatment & Purification, www.lenntech.com/periodic/elements/sr.htm.
+2. The Royal Society of Chemistry. “Strontium - Element Information, Properties and Uses: Periodic Table.” Strontium - Element Information, Properties and Uses | Periodic Table, 2011, www.rsc.org/periodic-table/element/38/strontium.
+3. ATSDR. “Toxic Substances Portal - Strontium.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 21 Jan. 2015, www.atsdr.cdc.gov/phs/phs.asp?id=654&tid=120#bookmark03.
